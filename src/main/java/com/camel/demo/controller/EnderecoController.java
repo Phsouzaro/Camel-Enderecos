@@ -1,8 +1,8 @@
-package com.example.demo.controller;
+package com.camel.demo.controller;
 
-import com.example.demo.camel.routes.BuscarEnderecoRouter;
-import com.example.demo.controller.request.EnderecoRequest;
-import com.example.demo.controller.response.EnderecoResponse;
+import com.camel.demo.camel.routes.BuscarEnderecoRouter;
+import com.camel.demo.controller.request.EnderecoRequest;
+import com.camel.demo.controller.response.EnderecoResponse;
 import org.apache.camel.ProducerTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

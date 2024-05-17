@@ -1,4 +1,4 @@
-package com.example.demo.controller.response;
+package com.camel.demo.controller.response;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Builder;

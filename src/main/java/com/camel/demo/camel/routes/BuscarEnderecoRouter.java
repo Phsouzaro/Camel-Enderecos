@@ -1,9 +1,9 @@
-package com.example.demo.camel.routes;
+package com.camel.demo.camel.routes;
 
-import com.example.demo.camel.processor.BuscarEnderecoProcessor;
-import com.example.demo.camel.processor.HandleErrorProcessor;
-import com.example.demo.domain.EnderecoDomain;
-import com.example.demo.mapper.EnderecoMapper;
+import com.camel.demo.camel.processor.BuscarEnderecoProcessor;
+import com.camel.demo.camel.processor.HandleErrorProcessor;
+import com.camel.demo.domain.EnderecoDomain;
+import com.camel.demo.mapper.EnderecoMapper;
 import org.apache.camel.Exchange;
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.component.jackson.JacksonDataFormat;

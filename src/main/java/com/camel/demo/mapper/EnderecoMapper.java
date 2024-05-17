@@ -1,8 +1,8 @@
-package com.example.demo.mapper;
+package com.camel.demo.mapper;
 
-import com.example.demo.controller.response.EnderecoResponse;
-import com.example.demo.controller.response.ErrorResponse;
-import com.example.demo.domain.EnderecoDomain;
+import com.camel.demo.domain.EnderecoDomain;
+import com.camel.demo.controller.response.EnderecoResponse;
+import com.camel.demo.controller.response.ErrorResponse;
 
 public class EnderecoMapper {
 

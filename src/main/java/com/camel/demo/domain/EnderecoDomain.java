@@ -1,4 +1,4 @@
-package com.example.demo.domain;
+package com.camel.demo.domain;
 
 import lombok.Data;
 

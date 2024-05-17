@@ -1,8 +1,7 @@
-package com.example.demo.camel.processor;
+package com.camel.demo.camel.processor;
 
-import com.example.demo.controller.response.EnderecoResponse;
-import com.example.demo.controller.response.ErrorResponse;
-import com.example.demo.mapper.EnderecoMapper;
+import com.camel.demo.controller.response.ErrorResponse;
+import com.camel.demo.mapper.EnderecoMapper;
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
 import org.apache.camel.http.base.HttpOperationFailedException;

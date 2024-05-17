@@ -1,6 +1,6 @@
-package com.example.demo.camel.processor;
+package com.camel.demo.camel.processor;
 
-import com.example.demo.controller.request.EnderecoRequest;
+import com.camel.demo.controller.request.EnderecoRequest;
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
 
